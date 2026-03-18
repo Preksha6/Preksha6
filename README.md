@@ -54,11 +54,11 @@
 
 | Project | Description | Tech | Live |
 |--------|-------------|------|------|
-| [🎮 Tic-Tac-Toe](https://github.com/Preksha6/TIC_TAC_TOE) | Two-player browser game with win detection | JavaScript, HTML, CSS | [Demo](#) |
-| [💱 Currency Converter](https://github.com/Preksha6/Currency-Converter) | Real-time currency conversion using exchange rate API | JavaScript, API | [Demo](#) |
-| [🔐 Password Generator](https://github.com/Preksha6/password_generator) | Secure password generator with customizable options | JavaScript | [Demo](#) |
-| [✅ To-Do App](https://github.com/Preksha6/To_Do) | Task management app with CRUD functionality | CSS, JavaScript | [Demo](#) |
-| [🔢 Counter App](https://github.com/Preksha6/Counter-app) | Interactive counter with increment/decrement controls | CSS, JavaScript | [Demo](#) |
+| [🎮 Tic-Tac-Toe](https://github.com/Preksha6/TIC_TAC_TOE) | Two-player browser game with win detection | JavaScript, HTML, CSS | [Demo](preksha6.github.io/TIC_TAC_TOE/) |
+| [💱 Currency Converter](https://github.com/Preksha6/Currency-Converter) | Real-time currency conversion using exchange rate API | JavaScript, API | [Demo](https://preksha6.github.io/Currency-Converter/) |
+| [🔐 Password Generator](https://password-generator-tau-blue.vercel.app/) | Secure password generator with customizable options | JavaScript | [Demo](https://password-generator-tau-blue.vercel.app/) |
+| [✅ To-Do App](https://github.com/Preksha6/To_Do) | Task management app with CRUD functionality | CSS, JavaScript | [Demo](preksha6.github.io/To_Do/) |
+| [🌦️ Weather App](https://github.com/Preksha6/Weather_App) | Weather app that shows the weather of any city | CSS, JavaScript | [Demo](https://preksha6.github.io/Weather_App/) |
 
 ---
 
