@@ -54,19 +54,11 @@
 
 | Project | Description | Tech | Live |
 |--------|-------------|------|------|
-| [🎮 Tic-Tac-Toe](https://github.com/Preksha6/TIC_TAC_TOE) | Two-player browser game with win detection | JavaScript, HTML, CSS | [Demo](https://preksha6.github.io/TIC_TAC_TOE/) |
+| [🏥 Medora](https://github.com/Preksha6/Medora) | AI Hospital Management System | React, Tailwind CSS, Node.js, Express.js, MongoDB, Groq API | [Demo]() |
+| [📚 Arcana Library](https://github.com/Preksha6/Library-Management) | Library management system for managing books, users, and borrowing workflows with an organized dashboar | React, Tailwind CSS, Node.js, Express.js, MongoDB | [Demo](https://library-management-theta-black.vercel.app/) |
 | [💱 Currency Converter](https://github.com/Preksha6/Currency-Converter) | Real-time currency conversion using exchange rate API | JavaScript, API | [Demo](https://preksha6.github.io/Currency-Converter/) |
 | [🔐 Password Generator](https://password-generator-tau-blue.vercel.app/) | Secure password generator with customizable options | JavaScript | [Demo](https://password-generator-tau-blue.vercel.app/) |
-| [✅ To-Do App](https://github.com/Preksha6/To_Do) | Task management app with CRUD functionality | CSS, JavaScript | [Demo](https://preksha6.github.io/To_Do/) |
 | [🌦️ Weather App](https://github.com/Preksha6/Weather_App) | Weather app that shows the weather of any city | CSS, JavaScript | [Demo](https://preksha6.github.io/Weather_App/) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preksha6&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
 
 ---
 
