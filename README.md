@@ -54,7 +54,7 @@
 
 | Project | Description | Tech | Live |
 |--------|-------------|------|------|
-| [🏥 Medora](https://github.com/Preksha6/Medora) | AI Hospital Management System | React, Tailwind CSS, Node.js, Express.js, MongoDB, Groq API | [Demo]() |
+| [🏥 Medora](https://github.com/Preksha6/Medora) | AI Hospital Management System | React, Tailwind CSS, Node.js, Express.js, MongoDB, Groq API | [Demo](https://medora-three.vercel.app/) |
 | [📚 Arcana Library](https://github.com/Preksha6/Library-Management) | Library management system for managing books, users, and borrowing workflows with an organized dashboar | React, Tailwind CSS, Node.js, Express.js, MongoDB | [Demo](https://library-management-theta-black.vercel.app/) |
 | [💱 Currency Converter](https://github.com/Preksha6/Currency-Converter) | Real-time currency conversion using exchange rate API | JavaScript, API | [Demo](https://preksha6.github.io/Currency-Converter/) |
 | [🔐 Password Generator](https://password-generator-tau-blue.vercel.app/) | Secure password generator with customizable options | JavaScript | [Demo](https://password-generator-tau-blue.vercel.app/) |
